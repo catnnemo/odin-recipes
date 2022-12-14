@@ -9,15 +9,29 @@ body{
     text-align: center;
 }
 
+.recipe{
+    text-align: center;
+    width: 400px;
+    height: auto;
+    position: absolute;
+    left: 25%;
+}
 
 h1{
     font-family: 'Nova Slim', cursive; 
 }
 
 ul {
+    text-align: left;
     list-style-position: inside;
  }
 
  ol {
+    text-align: left;
     list-style-position: inside;
+ }
+
+ img{
+    width: 390px;
+    height: auto;
  }
