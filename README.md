@@ -1,5 +1,5 @@
 This is the readme for the Odin Project **Odin-Recipes**. 
-This is my first project, Recipes. 
+This is my first project in the course.
 
 Many of the HTML topics I've already learned like basic tags. 
 
