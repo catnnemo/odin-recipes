@@ -13,12 +13,17 @@ body{
     text-align: center;
     width: 400px;
     height: auto;
-    position: absolute;
-    left: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{
     font-family: 'Nova Slim', cursive; 
+}
+
+h3{
+    text-align: left;
 }
 
 ul {
