@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Slim&display=swap'); 
     
 #home_pic{
-    width: 500px;
+    width: 380px;
     height: auto;
 }
 
@@ -10,12 +10,15 @@ body{
 }
 
 .recipe{
+    background-color: rgb(252, 252, 219);
     text-align: center;
-    width: 400px;
+    width: 380px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1{
